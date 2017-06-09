@@ -1,0 +1,35 @@
+<html>
+<head>
+	<style type="text/css">
+
+	#t1{
+border-style:solid;
+border-width:3px;
+       }
+    </style>
+</head>
+<body>
+<center><h3>CHEMISTRY</h3> </center>
+<form method="post">
+<table id="t1" border="1" cellpadding="0" cellspacing="0" align="center">
+
+<tr><td><img src="ch/C1.jpg"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ch/CT1.jpg"></td>
+<td align="center">a)<input type="radio" name="c1" value="a">b)<input type="radio" name="c1" value="b">c)<input type="radio" name="c1" value="c">d)<input type="radio" name="c1" value="d"><br><br><br><br><br><br></td></tr>
+
+
+<tr><td><img src="ch/C2.jpg"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ch/CT2.jpg"></td>
+<td align="center">a)<input type="radio" name="c2" value="a">b)<input type="radio" name="c2" value="b">c)<input type="radio" name="c2" value="c">d)<input type="radio" name="c2" value="d"><br><br><br><br><br><br></td></tr>
+
+<tr><td><img src="ch/C3.jpg"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ch/CT3.jpg"></td>
+<td align="center">a)<input type="radio" name="c3" value="a">b)<input type="radio" name="c3" value="b">c)<input type="radio" name="c3" value="c">d)<input type="radio" name="c3" value="d"><br><br><br><br><br><br></td></tr>
+
+<tr><td><img src="ch/C4.jpg"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ch/CT4.jpg"></td>
+<td align="center">a)<input type="radio" name="c4" value="a">b)<input type="radio" name="c4" value="b">c)<input type="radio" name="c4" value="c">d)<input type="radio" name="c4" value="d"><br><br><br><br><br><br></td></tr>
+
+<tr><td><img src="ch/C5 copy.jpg"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ch/CT5.jpg"></td>
+<td align="center">a)<input type="radio" name="c5" value="a">b)<input type="radio" name="c5" value="b">c)<input type="radio" name="c5" value="c">d)<input type="radio" name="c5" value="d"><br><br><br><br><br><br></td></tr>
+
+</table>
+</form>
+</body>
+</html>
